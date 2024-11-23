@@ -1,1 +1,1 @@
-# AkaneStyleFarmingMod
+# Akane-Style Farming Mod

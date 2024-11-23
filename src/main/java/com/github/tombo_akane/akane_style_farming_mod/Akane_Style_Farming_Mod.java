@@ -31,7 +31,7 @@ import org.slf4j.Logger;
 @Mod(Akane_Style_Farming_Mod.MOD_ID)
 public class Akane_Style_Farming_Mod
 {
-    public static final String MOD_ID = "akane-style_farming_mod";
+    public static final String MOD_ID = "akane_style_farming_mod";
     private static final Logger LOGGER = LogUtils.getLogger();
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, MOD_ID);
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, MOD_ID);
